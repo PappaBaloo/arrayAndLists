@@ -1,0 +1,13 @@
+G:\Visual Studio Code\C#\slutprojekt\listorarrayer\bin\Debug\netcoreapp3.1\listorarrayer.exe
+G:\Visual Studio Code\C#\slutprojekt\listorarrayer\bin\Debug\netcoreapp3.1\listorarrayer.deps.json
+G:\Visual Studio Code\C#\slutprojekt\listorarrayer\bin\Debug\netcoreapp3.1\listorarrayer.runtimeconfig.json
+G:\Visual Studio Code\C#\slutprojekt\listorarrayer\bin\Debug\netcoreapp3.1\listorarrayer.runtimeconfig.dev.json
+G:\Visual Studio Code\C#\slutprojekt\listorarrayer\bin\Debug\netcoreapp3.1\listorarrayer.dll
+G:\Visual Studio Code\C#\slutprojekt\listorarrayer\bin\Debug\netcoreapp3.1\listorarrayer.pdb
+G:\Visual Studio Code\C#\slutprojekt\listorarrayer\obj\Debug\netcoreapp3.1\listorarrayer.csprojAssemblyReference.cache
+G:\Visual Studio Code\C#\slutprojekt\listorarrayer\obj\Debug\netcoreapp3.1\listorarrayer.AssemblyInfoInputs.cache
+G:\Visual Studio Code\C#\slutprojekt\listorarrayer\obj\Debug\netcoreapp3.1\listorarrayer.AssemblyInfo.cs
+G:\Visual Studio Code\C#\slutprojekt\listorarrayer\obj\Debug\netcoreapp3.1\listorarrayer.csproj.CoreCompileInputs.cache
+G:\Visual Studio Code\C#\slutprojekt\listorarrayer\obj\Debug\netcoreapp3.1\listorarrayer.dll
+G:\Visual Studio Code\C#\slutprojekt\listorarrayer\obj\Debug\netcoreapp3.1\listorarrayer.pdb
+G:\Visual Studio Code\C#\slutprojekt\listorarrayer\obj\Debug\netcoreapp3.1\listorarrayer.genruntimeconfig.cache
